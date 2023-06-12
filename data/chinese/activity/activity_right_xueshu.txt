@@ -1,0 +1,37 @@
+{
+    "head": "学术交流",
+    "items": [
+        {
+            "id": 1,
+            "content": "张宁博士在2015年收到滑铁卢大学博士学位，现在的他是滑铁卢大学BBCR实验室的一名博士后。不久将会成为德州农工大学柯柏斯克里斯提分校的一名助理教授。他现在的研究方向主要包括5G，移动边缘计算，软件定义网络以及物理层安全。张宁博士受喻莉教授邀请，于2017年7月17号为我们做了一次主题为\"Next Generation Wireless Networks for Big Geospatial Data\"的学术报告。报告主要涉及两方面内容：1.基于空间众包的位置数据获取，采用了一种在线的学习算法以使得被选择的工作最大效用的被长期利用。2.基站间高速的数据传输，在这里，运用博弈论方法去做联合资源的分配。",
+            "imgs": [
+                "dest/imgs/activity/zhangning1.jpg",
+                "dest/imgs/activity/zhangning2.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "content": "来自滑铁卢大学的杨侃博士受喻莉教授邀请，做题为\"Secure and Scalable Data Outsourcing in the Public Cloud\"的学术报告。",
+            "imgs": [
+                "dest/imgs/activity/yangkan1.jpg",
+                "dest/imgs/activity/yangkan2.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "content": "来自于浙江大学控制科学与工程系的张恒博士和张永敏博士到访实验室，他们作了传感器网络方面的报告，并且和网络组的同学进行了深入的研究探讨。",
+            "imgs": [
+                "dest/imgs/activity/张恒.jpg",
+                "dest/imgs/activity/张永敏.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "content": "陈康，来自美国克莱蒙森大学计算机工程专业的博士，目前在美国克莱蒙森大学从事博士后的研究工作，主要从事移动网络、延迟容许网络、车在网络，以及软件定义网络领域研究。他此次到访实验室作了关于车载网的中运用SDN的演讲，并且和网络组的同学作了深入的讨论，同时也给大家传授了很多写文章的经验。",
+            "imgs": [
+                "dest/imgs/activity/陈康_1.jpg",
+                "dest/imgs/activity/陈康_2.jpg"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "head": "Activities in MCNC",
+    "items": [
+        {
+            "content": "On June 22, 2017, all members of the MCNC laboratory held a tea party in A202, Dr. Jingru Li and Dr. Tiansong Li presided over the work of the late work of the laboratory arrangements, and everyone enjoyed it.",
+            "imgs": [
+                "dest/imgs/activity/chahuahui2017_1.jpg",
+                "dest/imgs/activity/chahuahui2017_2.jpg"
+            ]
+        },
+        {
+            "content": "On June 21, 2017, all members of MCNC laboratory gathered together, held party farewell to the graduates Peng Zhou,Juhong Tian , Yinchao Feng, Jing Sun, Zhiqiang Zhang, Conghuan Tu, Xinglong Zhang, Kai Wan.",
+            "imgs": [
+                "dest/imgs/activity/biye2017_1.jpg",
+                "dest/imgs/activity/biye2017_2.jpg"
+            ]
+        },
+        {
+            "content": "Teachers' Day in 2016",
+            "imgs": [
+                "dest/imgs/activity/教师节2016.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations to the graduation of MCNC group members.",
+            "imgs": [
+                "dest/imgs/activity/2016_graduation1.jpg",
+                "dest/imgs/activity/2016_graduation2.jpg"
+            ]
+        },
+        {
+            "content": "Celebrating Chao Luo's and Jingjing Luo's graduation.",
+            "imgs": [
+                "dest/imgs/activity/博士毕业2016_1.jpg",
+                "dest/imgs/activity/博士毕业2016_2.jpg"
+            ]
+        },
+        {
+            "content": "Teachers' Day, 2015",
+            "imgs": [
+                "dest/imgs/activity/教师节2015.jpg"
+            ]
+        },
+        {
+            "content": "Farewell Party to Peng Yang and Qiuming Liu.",
+            "imgs": [
+                "dest/imgs/activity/party.jpg"
+            ]
+        },
+        {
+            "content": "Teachers' Day, 2014",
+            "imgs": [
+                "dest/imgs/activity/2014_1.jpg"
+            ]
+        },
+        {
+            "content": "Autumn touring 2011",
+            "imgs": [
+                "dest/imgs/activity/2011_1.jpg",
+                "dest/imgs/activity/2011_2.jpg",
+                "dest/imgs/activity/2011_3.jpg"
+            ]
+        },
+        {
+            "content": "New Year's party, 2010",
+            "imgs": [
+                "dest/imgs/activity/2010_1.jpg",
+                "dest/imgs/activity/2010_2.jpg",
+                "dest/imgs/activity/2010_3.jpg"
+            ]
+        },
+        {
+            "content": "2009",
+            "imgs": [
+                "dest/imgs/activity/2009_1.jpg"
+            ]
+        },
+        {
+            "content": "Prof Yu’s Birthday, 2008",
+            "imgs": [
+                "dest/imgs/activity/2008_2.jpg"
+            ]
+        },
+        {
+            "content": "Teachers' Day, 2008",
+            "imgs": [
+                "dest/imgs/activity/2008_1.png",
+                "dest/imgs/activity/2008_3.png"
+            ]
+        },
+        {
+            "content": "New Year's party, 2007",
+            "imgs": [
+                "dest/imgs/activity/2007_1.png",
+                "dest/imgs/activity/2007_2.png"
+            ]
+        }
+    ]
+}

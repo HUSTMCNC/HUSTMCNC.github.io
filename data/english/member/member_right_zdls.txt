@@ -1,0 +1,178 @@
+{
+    "yuli": {
+        "name": "Professor Li Yu",
+        "py": "yuli",
+        "description": "Prof. YU received her BS, MS, PhD degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 1992, 1995, 1999 respectively. She is now the dean of Division of Communication and Intelligent Network, WNLO. Her research focuses on Multimedia, Wireless Network, Video Coding/Decoding and many other related areas.",
+        "img": "dest/imgs/members/喻莉.jpg",
+        "honor": [
+            "In 2009，\"Outstanding youth in Hubei province\"",
+            "In 2008，\"Hubei Province science and technology award technology invention award\"",
+            "In 2007，\"Information industry ten major technical invention\"",
+            "In 2007，\"China Standard Innovation Contribution Award\"First prize"
+        ],
+        "project": [
+            {
+                "time": "2013-2017",
+                "name": "The Basic Theory and Key Technology of Multi - view Sampling and Reconstruction of Multi-depth Complex Scene",
+                "type": "National Natural Science Foundation of key projects"
+            },
+            {
+                "time": "2010-2011",
+                "name": "Mobile Multimedia Communication System Based on Photoelectric Fusion",
+                "type": "Provincial and ministerial level key projects"
+            },
+            {
+                "time": "2010-2012",
+                "name": "Performance Analysis of Wireless Network Based on Random Network Computing",
+                "type": "National Natural Science Foundation of China"
+            },
+            {
+                "time": "2009-2010",
+                "name": "Trusted Routing Research for AdHoc Networks with Independent Trust Mechanism",
+                "type": "National 863 Project"
+            },
+            {
+                "time": "2006-2008",
+                "name": "Performance Prediction Model of Multimedia Network Based on Covariant Orthogonal and Joint Optimization",
+                "type": "National Natural Science Foundation of China"
+            }
+        ]
+    },
+    "zhuguangxi": {
+        "name": "Professor Guangxi Zhu",
+        "py": "zhuguangxi",
+        "description": "Professor Zhu is a member of the evaluation team of the Information and Communication Engineering Committee of the Academic Degrees Committee of the State Council and an expert of the National Natural Science Foundation of Electronic Information Science.",
+        "img": "dest/imgs/members/朱光喜.png",
+        "honor": [
+            "In 2005，\"National Teaching Research Achievement Award \"",
+            "In 2004 and 2006，\"Hubei Province outstanding doctoral thesis instructor \"",
+            "In 2004，\"Excellent graduate teacher \""
+        ],
+        "project": [
+            {
+                "time": "",
+                "name": "Broadband wireless IP system, apply for invention patents 25",
+                "type": "National 863 Program"
+            },
+            {
+                "time": "",
+                "name": "Digital video and audio coding, transmission, testing and application demonstration, apply for invention patents 15",
+                "type": "National 863 Program"
+            }
+        ]
+    },
+    "liuqiong": {
+        "name": "Associate Professor Qiong Liu",
+        "py": "liuqiong",
+        "description": "Associate Professor Qiong Liu obtained a bachelor's degree from the School of Computer Science and Technology of Huazhong Normal University and received her Ph.D. degree from National Multimedia Software Engineering Technology Research Center of Wuhan University in 2008. She is now the multimedia and intelligent network laboratory multimedia group of instructors.",
+        "img": "dest/imgs/members/刘琼.jpg",
+        "honor": [],
+        "project": [
+            {
+                "time": "",
+                "name": "Joint and efficient multi - view video coding and depth generation of interactive 3D video",
+                "type": ""
+            },
+            {
+                "time": "",
+                "name": "Low Complexity Coding Algorithm Based on Interactive 3D Video",
+                "type": ""
+            },
+            {
+                "time": "",
+                "name": "Region of Interest Extensible Video Coding",
+                "type": ""
+            },
+            {
+                "time": "",
+                "name": "H.264 / AVC Level 3 Fast Mode Selection Algorithm",
+                "type": ""
+            }
+        ]
+    },
+    "chenqiming": {
+        "name": "Associate Professor Qimin Cheng",
+        "py": "chengqiming",
+        "description": "Associate Professor Cheng Qiming received a bachelor's degree from Taiyuan University of Technology and a doctoral college in the Institute of Remote Sensing Applications, Chinese Academy of Sciences in 2004. She is now a teacher of multimedia and intelligent network laboratory.",
+        "img": "dest/imgs/members/default.jpg",
+        "honor": [],
+        "project": [
+            {
+                "time": "2009-2011",
+                "name": "Research on Key Technology of Multi - Agent Driven Feedback Remote Sensing Image Retrieval",
+                "type": "National Natural Science Foundation of China(No.40801165)"
+            },
+            {
+                "time": "2012-2015",
+                "name": "Video image retrieval and integrated management",
+                "type": ""
+            }
+        ]
+    },
+    "zhangjiangshan": {
+        "name": "Associate Professor Jiangshan Zhang",
+        "py": "zhangjiangshan",
+        "description": "Associate Professor Zhang Jiangshan in 1992,1997, and in 2006 received the Huazhong University of Science and Technology School of Electronic Information and Communication Bachelor, Master and Ph.D.",
+        "img": "dest/imgs/members/default.jpg",
+        "honor": [
+            "\"Hubei Province Science and Technology Invention Award\"",
+            "\"The school teaching achievement first prize\"",
+            "\"Teaching quality second prize 2 times\""
+        ],
+        "project": [
+            {
+                "time": "",
+                "name": "International exchange program\"Research on Channel Generalized Rate Distortion Model in Wireless Channel\"",
+                "type": "National Natural Science Foundation of China"
+            },
+            {
+                "time": "",
+                "name": "Design of ASIC for MPEG-4 Video Encoder",
+                "type": "Huawei Fund Project"
+            },
+            {
+                "time": "",
+                "name": "Research on Video Watermarking and Anti - error Technology",
+                "type": "Huawei Fund Project"
+            },
+            {
+                "time": "",
+                "name": "Video coding transmission software development",
+                "type": "China Shipping total 722 projects"
+            },
+            {
+                "time": "",
+                "name": "AWG Wavelength Selects the light receiving array module",
+                "type": "Wuhan Science and Technology Project"
+            },
+            {
+                "time": "",
+                "name": "DWDM demultiplexed light receiving array module",
+                "type": "National Innovation Fund Project"
+            },
+            {
+                "time": "",
+                "name": "\"Fog canvas\",\"Virtual table tennis\"",
+                "type": "Guangdong Province Digital Science and Technology Museum project"
+            },
+            {
+                "time": "",
+                "name": "Mobile business acceptance system",
+                "type": "Dongguan City Bo Road telecommunications project"
+            },
+            {
+                "time": "",
+                "name": "Development and Service Based on H.323 Standard Conference System",
+                "type": "Beijing Haiying Xing diagram digital technology company project"
+            }
+        ]
+    },
+    "yangyou": {
+        "name": "Lecturer You Yang",
+        "py": "yangyou",
+        "description": "Mr. Yang received his Ph.D. degree from the Institute of Computer Technology, Chinese Academy of Sciences. He is now the instructor of the multimedia group of multimedia and intelligent network.",
+        "img": "dest/imgs/members/杨铀.jpg",
+        "honor": [],
+        "project": []
+    }
+}

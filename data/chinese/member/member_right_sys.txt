@@ -1,0 +1,145 @@
+{
+    "wireless": {
+        "title": "无线网络组",
+        "members": [
+            {
+                "name": "李静茹 博士生",
+                "description": "李静茹于2009年9月加入实验室网络组，她现在的研究方向是社交网络的信任模型研究。",
+                "img": "dest/imgs/members/李静茹.jpg",
+                "email": "lijingru221@gmail.com",
+                "detail": ""
+            },
+            {
+                "name": "郑军 博士生",
+                "description": "郑军于2011年9月加入实验室网络组，他现在的研究方向是随机网络演算和认知无线电网络。",
+                "img": "dest/imgs/members/郑军.jpg",
+                "email": "Neptunezj@gmail.com",
+                "detail": ""
+            },
+            {
+                "name": "刘秋明 博士生",
+                "description": "刘秋明与2012年9月加入实验室，他现在的研究方向是无线网络容量。",
+                "img": "dest/imgs/members/刘秋明.jpg",
+                "email": "195324758@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "杨鹏 博士生",
+                "description": "杨鹏于2013年9月加入实验室，他现在的研究方向是软件定义网络，移动边缘计算，毫米波通信。 ",
+                "img": "dest/imgs/members/杨鹏.jpg",
+                "email": "yangpeng@hust.edu.cn",
+                "detail": ""
+            },
+            {
+                "name": "贺鹏飞 硕士生",
+                "description": "贺鹏飞于2015年9月加入实验室，他现在的研究方向是无线网络容量。",
+                "img": "dest/imgs/members/贺鹏飞.jpg",
+                "email": "1227767012@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "易旭 硕士生",
+                "description": "易旭于2015年9月加入实验室，他现在的研究方向是无线网络容量。 ",
+                "img": "dest/imgs/members/易旭.png",
+                "email": "2273848642@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "文朝埻 硕士生",
+                "description": "文朝埻于2017年9月加入实验室，他现在的研究方向是社交网络和推荐系统。 ",
+                "img": "dest/imgs/members/文朝埻.jpg",
+                "email": "1450485675@qq.com",
+                "detail": ""
+            }
+        ]
+    },
+    "media": {
+        "title": "多媒体组",
+        "members": [
+            {
+                "name": "钟刚 博士生",
+                "description": "钟刚于2008年9月加入实验室，他现在的研究方向是网络编码。",
+                "img": "dest/imgs/members/钟刚.jpg",
+                "email": "fhjianke@126.com",
+                "detail": ""
+            },
+            {
+                "name": "祝常健 博士生",
+                "description": "祝常健与2012年9月加入实验室，他现在的研究方向是3D采样。",
+                "img": "dest/imgs/members/祝常健.jpg",
+                "email": "276206020@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "王晟玮 博士生",
+                "description": "王晟玮于2013年9月加入实验室，他现在的研究方向是视频编码。",
+                "img": "dest/imgs/members/王晟玮.jpg",
+                "email": "kadinwang@gmail.com",
+                "detail": ""
+            },
+            {
+                "name": "黎天送 博士生",
+                "description": "黎天送于2016年9月加入实验室，他现在的研究方向是视频编码。",
+                "img": "dest/imgs/members/黎天送.jpg",
+                "email": "1436369042@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "涂明明 硕士生",
+                "description": "涂明明于2015年9月加入实验室，他现在的研究方向是图像检索。",
+                "img": "dest/imgs/members/default.jpg",
+                "email": "346170062@qq.com ",
+                "detail": ""
+            },
+            {
+                "name": "陈怡 硕士生",
+                "description": "陈怡于2016年9月加入实验室，他现在的研究方向是多媒体信息处理和机器学习。",
+                "img": "dest/imgs/members/陈怡.jpg",
+                "email": "13163234706@163.com",
+                "detail": ""
+            },
+            {
+                "name": "邵康 硕士生",
+                "description": "邵康于2016年9月加入实验室，他现在的研究方向是图像检索。",
+                "img": "dest/imgs/members/邵康.jpg",
+                "email": "470417455@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "阮钦锋 硕士生",
+                "description": "阮钦锋于2017年9月加入实验室，他现在的研究方向是图像处理。",
+                "img": "dest/imgs/members/阮钦锋.jpg",
+                "email": "ruanqinfeng123@163.com",
+                "detail": ""
+            },
+            {
+                "name": "李金玲 硕士生",
+                "description": "李金玲于2017年9月加入实验室",
+                "img": "dest/imgs/members/李金玲.jpg",
+                "email": "4679997865@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "李森 硕士生",
+                "description": "李森于2017年9月加入实验室，他现在的研究方向是图像检索与图像处理。",
+                "img": "dest/imgs/members/李森.jpg",
+                "email": "407553260@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "王艺璇 硕士生",
+                "description": "王艺璇于2017年9月加入实验室，她现在的研究方向是机器学习和视频处理。",
+                "img": "dest/imgs/members/王艺璇.jpg",
+                "email": "2932221844@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "陈雅梅 硕士生",
+                "description": "陈雅梅于2017年9月加入实验室，她现在的研究方向是视频编码。",
+                "img": "dest/imgs/members/陈雅梅.jpg",
+                "email": "1404150225@qq.com",
+                "detail": ""
+            }
+        ]
+    }
+}

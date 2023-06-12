@@ -1,0 +1,13 @@
+{
+    "head": "Publications",
+    "items": [
+        {
+            "name": "Journal/Conference Paper",
+            "link": "/publish_en/qikan"
+        },
+        {
+            "name": "National Patent",
+            "link": "/publish_en/zhuanli"
+        }
+    ]
+}

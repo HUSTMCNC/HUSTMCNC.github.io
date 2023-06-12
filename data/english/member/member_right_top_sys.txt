@@ -1,0 +1,13 @@
+{
+    "head": "Laboratory",
+    "items": [
+        {
+            "name": "Wireless network group",
+            "link": "wireless"
+        },
+        {
+            "name": "Multimedia group",
+            "link": "media"
+        }
+    ]
+}

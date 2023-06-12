@@ -1,0 +1,129 @@
+{
+    "notice": "写法注意:一行写不下也不能换行！切记",
+    "left_top_title": "Laboratory members",
+    "left_top_img": "dest/imgs/activity/教师节2016.jpg",
+    "left_bottom_title": "Laboratory introduction",
+    "left_bottom_description": "MCNC is an innovative center dedicating to the advancement of technology in the fields of multimedia infomation processing, wireless network, 3D video coding, social networks, cognitive radio,etc. Under the leadship of Prof.YU, more than twenty graduate and undergraduate members work together towards both academic and individual career fulfillment. Diversity of group members contributes to the active inter-communication within lab. Moreover, MCNC also provides a playground for members to have fun. Various entertaining activities and games are scheduled periodically, which help creating an ambient atmosphere among lab members. ",
+    "right_title": "Latest News",
+    "right_news": [
+        {
+            "type": "Paper Publish",
+            "img": "dest/imgs/论文.jpg",
+            "title": "Congratulations-Changjian Zhu's paper entitled \"Structure Models for Image-assisted Geometry Simplification in the Plenoptic Sampling\" has been accepted by IEEE Trans. on Instrumentation & Measurement, 2017.",
+            "time": "",
+            "detail": "/activity_en/rongyu"
+        },
+        {
+            "type": "Research Seminar",
+            "img": "dest/imgs/学术.jpg",
+            "title": "Dr. Ning Zhang was invited by Prof.Li Yu to conduct academic exchange report about \"Next Generation Wireless Networks for Big Geospatial Data\"on the network at WNLO.",
+            "time": "Time：2017.7.17    Address：A302",
+            "detail": "/activity/xueshu"
+        },
+        {
+            "type": "Paper Publish",
+            "img": "dest/imgs/论文.jpg",
+            "title": "Congratulations-Jingru Li's paper entitled \"A New Node Centrality Evaluation Model for Multi-community Weighted Social Networks\" and Qiuming Liu's paper entitled \"Control of Multi-Hop Wireless Networks with Security Constraints\"has been accepted by VTCfall 2017.",
+            "time": "",
+            "detail": "/activity_en/rongyu"
+        },
+        {
+            "type": "FestivaI Activity",
+            "img": "dest/imgs/活动.jpg",
+            "title": "Members of MCNC gathered at the tea party.",
+            "time": "Time：2016.6.22    Address：A202",
+            "detail": "/activity_en/shiyan"
+        },
+        {
+            "type": "Congratulations on Graduation",
+            "img": "dest/imgs/毕业.jpg",
+            "title": "Members of MCNC gathered,and held party farewell to graduates.",
+            "time": "Time：2017.6.21",
+            "detail": "/activity_en/shiyan"
+        },
+        {
+            "type": "Happy Celebration",
+            "img": "dest/imgs/其他.jpg",
+            "title": "Congratulations to Chaozhun Wen won the first prize of bachelor thesis.",
+            "time": "Time：2017.6.13",
+            "detail": "/activity_en/rongyu"
+        },
+        {
+            "type": "Congratulations on Graduation",
+            "img": "dest/imgs/毕业.jpg",
+            "title": "Congratulations Dr. Zhou Peng, master Tian Juhong, Feng Yinchao, Sun Jing, Zhang Zhiqiang, Tu Cong Huan, Zhang Xinglong, Wan Kai smoothly through the graduation reply.",
+            "time": "Time：2017.5.26",
+            "detail": "/activity_en/biye"
+        },
+        {
+            "type": "Research Seminar",
+            "img": "dest/imgs/学术.jpg",
+            "title": "Prof.Phone Lin and Professor Xiaodong Lin were invited by Prof.Li Yu to conduct academic exchange report on the network at WNLO.",
+            "time": "Time：2017.5.16    Address：A302",
+            "detail": "/activity_en/laifang/linfeng"
+        },
+        {
+            "type": "Happy Celebration",
+            "img": "dest/imgs/活动.jpg",
+            "title": "Congratulation Dr.Jingjing Luo achieving the \"Bo new plan \" funding.",
+            "time": "",
+            "detail": "/activity_en/rongyu"
+        },
+        {
+            "type": "Research Seminar",
+            "img": "dest/imgs/学术.jpg",
+            "title": "Yang Kan from the City University of Hong Kong Postdoctoral Professor was invited by Prof.Li Yu to do academic lectures on the theme of Secure and Scalable Data Outsourcing in the Public Cloud.",
+            "time": "Time：2016.12",
+            "detail": "/activity_en/xueshu"
+        },
+        {
+            "type": "Research Seminar",
+            "img": "dest/imgs/学术.jpg",
+            "title": "Assistant Professor Rui Dai of the University of Cincinnati visited MCNC and did a presentation about Intelligent sensor systems and eHealth.(2015.05)",
+            "time": "Time：2015.5     Address：A302",
+            "detail": "/activity_en/laifang/dairui"
+        },
+        {
+            "type": "Paper Publish",
+            "img": "dest/imgs/论文.jpg",
+            "title": "Congratulations-Zengqiang Yan's paper entitled \"Large-Area Depth Recovery for RGB-D Camera\" and Sen Xiang's paper entitled \"Multi-camera Interference Cancellation of Time-of-Flight (TOF) Cameras\" have been accepted by the 2015ICIP. Moerover, the Zengqiang Yan's paper has taken the Travel Grant Award of ICIP",
+            "time": "",
+            "detail": ""
+        },
+        {
+            "type": "Congratulations on Graduation",
+            "img": "dest/imgs/毕业.jpg",
+            "title": "Congratulations- Ph.D Yi Zhang and Master Guang bai, Shiting Hu, Jialiang Zhou, Xiancai Tang, Xing Yang, Xu Li, Huihui Wei have successfully finished their thesis defenses",
+            "time": "",
+            "detail": ""
+        },
+        {
+            "type": "FestivaI Activity",
+            "img": "dest/imgs/活动.jpg",
+            "title": "Congratulations- Cong LIU have successfully finished his doctoral dissertation and thesis oral defense",
+            "time": "Time：2015.04",
+            "detail": "#/activities/professor/lishuoyan"
+        },
+        {
+            "type": "Research Seminar",
+            "img": "dest/imgs/学术.jpg",
+            "title": "PH.D Kang Chen of Clemson University visited MCNC.",
+            "time": "Time：2014.12",
+            "detail": "#/activities/communicate"
+        },
+        {
+            "type": "Research Seminar",
+            "img": "dest/imgs/学术.jpg",
+            "title": "Prof. Hongkai XIONG of Shanghai Jiao Tong University visited MCNC.",
+            "time": "Time：2014.11",
+            "detail": "#/activities/professor/xionghongkai"
+        },
+        {
+            "type": "Congratulations on Graduation",
+            "img": "dest/imgs/毕业.jpg",
+            "title": "Congratulations- Cong LIU have successfully finished his doctoral dissertation and thesis oral defense.",
+            "time": "Time：2014.11",
+            "detail": "#/activities/graduate"
+        }
+    ]
+}

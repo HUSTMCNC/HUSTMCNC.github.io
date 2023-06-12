@@ -1,0 +1,99 @@
+{
+    "head": "实验室活动",
+    "items": [
+        {
+            "content": "举行茶话会。2017年6月22日，MCNC实验室全体成员在A202举行茶话会，由李静茹博士和黎天送博士主持，对实验室后期工作学习进行安排，会上大家积极交流。",
+            "imgs": [
+                "dest/imgs/activity/chahuahui2017_1.jpg",
+                "dest/imgs/activity/chahuahui2017_2.jpg"
+            ]
+        },
+        {
+            "content": "欢送毕业生。2017年6月21日，MCNC实验室全体成员齐聚一堂，举办party欢送本届毕业生周鹏、田菊红、冯银超、孙京、张志强、涂丛欢、张兴龙、万凯。",
+            "imgs": [
+                "dest/imgs/activity/biye2017_1.jpg",
+                "dest/imgs/activity/biye2017_2.jpg"
+            ]
+        },
+        {
+            "content": "教师节2016",
+            "imgs": [
+                "dest/imgs/activity/教师节2016.jpg"
+            ]
+        },
+        {
+            "content": "祝贺MCNC实验室硕士、博士毕业",
+            "imgs": [
+                "dest/imgs/activity/2016_graduation1.jpg",
+                "dest/imgs/activity/2016_graduation2.jpg"
+            ]
+        },
+        {
+            "content": "祝贺罗超、罗晶晶同学博士毕业",
+            "imgs": [
+                "dest/imgs/activity/博士毕业2016_1.jpg",
+                "dest/imgs/activity/博士毕业2016_2.jpg"
+            ]
+        },
+        {
+            "content": "教师节2015",
+            "imgs": [
+                "dest/imgs/activity/教师节2015.jpg"
+            ]
+        },
+        {
+            "content": "欢送实验室成员赴国外学习。2015年9月初，MCNC实验室成员刘秋明和杨鹏获国家留学基金委资助，即将赴国外进行为期一年和两年学习。",
+            "imgs": [
+                "dest/imgs/activity/party.jpg"
+            ]
+        },
+        {
+            "content": "教师节2014",
+            "imgs": [
+                "dest/imgs/activity/2014_1.jpg"
+            ]
+        },
+        {
+            "content": "秋游2011",
+            "imgs": [
+                "dest/imgs/activity/2011_1.jpg",
+                "dest/imgs/activity/2011_2.jpg",
+                "dest/imgs/activity/2011_3.jpg"
+            ]
+        },
+        {
+            "content": "新年晚会2010",
+            "imgs": [
+                "dest/imgs/activity/2010_1.jpg",
+                "dest/imgs/activity/2010_2.jpg",
+                "dest/imgs/activity/2010_3.jpg"
+            ]
+        },
+        {
+            "content": "2009",
+            "imgs": [
+                "dest/imgs/activity/2009_1.jpg"
+            ]
+        },
+        {
+            "content": "喻老师生日 2008",
+            "imgs": [
+                "dest/imgs/activity/2008_2.jpg"
+            ]
+        },
+        {
+            "content": "教师节2008",
+            "imgs": [
+                "dest/imgs/activity/2008_1.png",
+                "dest/imgs/activity/2008_3.png"
+            ]
+        },
+        {
+            "content": "新年晚会2007",
+            "imgs": [
+                "dest/imgs/activity/2007_1.png",
+                "dest/imgs/activity/2007_2.png"
+            ]
+        }
+    ]
+}

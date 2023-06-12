@@ -1,0 +1,13 @@
+{
+    "title": "Other Resource",
+    "content": [
+        {
+            "title": "2017年喻家军通讯录",
+            "link": "dest/other/2017年喻家军通讯录.xls"
+        },
+        {
+            "title": "TMM_NCF_paper_supplementalmaterial",
+            "link": "dest/other/TMM_NCF_paper_supplementalmaterial.pdf"
+        }
+    ]
+}

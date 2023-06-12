@@ -1,0 +1,37 @@
+{
+    "head": "Research Seminar",
+    "items": [
+        {
+            "id": 1,
+            "content": "Dr. Ning Zhang received the Ph.D degree from University of Waterloo in 2015 and He is now a postdoc research fellow at BBCR lab in University of Waterloo. Dr. Zhang will be an Assistant Professor at Department of Computer Science, Texas A&M University-Corpus Christi. His current research interests include 5G, mobile edge computing, software defined networking, and physical layer security.             Dr. Ning Zhang is invited by Prof. Li Yu ,gave a talk on “Next Generation Wireless Networks for Big Geospatial Data” in July 17, 2017 .Two preliminary research works was presented: i) spatial crowdsourcing for geospatial data acquisition, where an online learning algorithm is proposed to select workers to maximize long term utility; and ii) and base station coordination for efficient data transmission, where game-theoretical approach is proposed for joint resource allocation.",
+            "imgs": [
+                "dest/imgs/activity/zhangning1.jpg",
+                "dest/imgs/activity/zhangning2.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "content": "Dr. Yang Kan from the City University of Hong Kong, invited by Prof. Li Yu gave a talk on ‘Secure and Scalable Data Outsourcing in the Public Cloud.",
+            "imgs": [
+                "dest/imgs/activity/yangkan1.jpg",
+                "dest/imgs/activity/yangkan2.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "content": "Dr. Heng Zhang and Dr. Yongmin Zhang are currently working in the group of networked sensing and control, department of control science and engineering, Zhejiang University. They visit MCNC and give presentations on their research topics.",
+            "imgs": [
+                "dest/imgs/activity/张恒.jpg",
+                "dest/imgs/activity/张永敏.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "content": "Dr. Kang Chen is currently a postdoctoral research fellow in the connected vehicle group in the Department of Electrical and Computer Engineering at Clemson University. He received his Ph.D. in computer engineering from Clemson University in 2014, his M.E. degree from University of Chinese Academy of Sciences in 2008, and his B.E. degree from Huazhong University of Science and Technology in 2005. His research interests are broadly in mobile and computer networks, with an emphasis on vehicular networks, software-defined networking (SDN), mobile opportunistic/ad hoc networks, mobile social networks, peer-to-peer networks, and GENI. He came to the lab and did a presentation about vehicular networks, software-defined networking (SDN) and communicated with students who worked in MCNC.",
+            "imgs": [
+                "dest/imgs/activity/陈康_1.jpg",
+                "dest/imgs/activity/陈康_2.jpg"
+            ]
+        }
+    ]
+}

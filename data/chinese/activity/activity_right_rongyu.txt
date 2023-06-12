@@ -1,0 +1,25 @@
+{
+    "head": "荣誉奖励",
+    "items": [
+         {
+            "id": 4,
+            "content": "祝贺祝常健博士的论文《Structure Models for Image-assisted Geometry Simplification in the Plenoptic Sampling》被2017年IEEE Trans. on Instrumentation & Measurement录用。",
+            "imgs": []
+        },
+        {
+            "id": 3,
+            "content": "祝贺李静茹博士的论文《A New Node Centrality Evaluation Model for Multi-community Weighted Social Networks》和刘秋明博士的论文《Control of Multi-Hop Wireless Networks with Security Constraints》被VTC2017-Fall录用。",
+            "imgs": []
+        },
+        {
+            "id": 2,
+            "content": "祝贺文朝埻获得本科毕设优秀论文一等奖。",
+            "imgs": []
+        },
+        {
+            "id": 1,
+            "content": "祝贺罗晶晶博士后获得2016年度“博士后创新人才支持计划”（简称“博新计划”）资助。“博新计划”是国家新设立的一项青年优秀人才支持计划，通过择优遴选一批应届或新近毕业的优秀博士，专项资助其从事博士后研究工作，旨在加速培养一批进入世界科技前沿的青年创新型人才。2016年该项计划全国共有200名申请人获得资助，武汉地区高校、研究院所共有10人入选。",
+            "imgs": []
+        }
+    ]
+}

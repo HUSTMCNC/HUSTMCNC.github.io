@@ -1,0 +1,182 @@
+{
+    "2010": {
+        "time": "2010年发表文章",
+        "content": [
+            "[1] Li Yu, Cong Liu, Zuhao Liu, Wenyu Hu:Heuristic Spectrum Assignment Algorithm in Distributed Cognitive Networks. Wireless Sensor Network 2(6): 411-418 (2010).",
+            "[2] Li Yu, Jia Zhao, Jingru Li, Cong Qian.  A Trust based Cooperative Model for Congestion in Ad Hoc Networks,  ICCASM 2010, Oct. 22-24, 2010.",
+            "[3] Zhengmin Kong, Liang Zhong, Guangxi Zhu, Li Yu. A Novel Cluster-Based Routing Protocol and Cluster Reformation Criteria for Mobile Ad Hoc Networks. ICCASM 2010, Oct. 22-24, 2010.",
+            "[4] Zhenmin Kong, Guangxi Zhu, Qiaoling Tong, Yanchun Li.   A novel differential multiuser detection algorithm for multiuser MIMO-OFDM systems. 浙江大学学报自然科学版（英文）, 2010.11.",
+            "[5] Li Yu, Cong Liu, Zuhao Liu,Wenyu Hu    Heuristic. Spectrum Assignment Algorithm in Distributed Cognitive Networks. WiCOM 2010, Sept. 23-25 2010, Chengdu, China.",
+            "[6] Li Yu, Wenyu Hu, Cong Liu, Haibo Chen. Cognitive Partners in Wireless Networks. ICSPS 2010, Jul. 5-7 2010, Dalian, China.",
+            "[7] Deng Hui-Ping, Yu Li, Xiong Wei, He Qing-Di, Li Rong. Adaptive Interpolation/Extrapolation and motion vector processing method for Frame Rate Up Conversion. Fifth International Conference on Image and Graphics, ICIG '09, Sept. 20-23 2009, Xi'an, china.",
+            "[8] Yu Li, Doudou Samb. Performance analysis of relay channel with Amplify-and-Forward in cooperative communication system. ICCSIT 2010, Jul. 9-11 2010, Chengdu, China.",
+            "[9] Phuong Pham，Li Yu，Minh Nguyen.  Applying the dual-tree complex DWT and double density DWT for mass spectrometry feature extraction and classification   ICBBT 2010，Mar. 25-27 2010, Chengdu, China.",
+            "[10] 蒙文武，朱光喜，李植荣，喻莉. MB-OFDM UMB通信空时网格编码误码率分析.电子学报，2010.10.",
+            "[11] Teferi, Amare; Li, Yu. Neighbor selecting MAC protocol based on adaptive beamforming for ad hoc network. ICIMA 2010 ,May 30- 31, 2010.",
+            "[12] Teferi, Amare; Li, Yu. Efficiently utilization of redundancy backup server by forming dynamic clustering in distributed systems for tolerating faults. ICIMA 2010, May 30- 31, 2010.",
+            "[13] Wei Cheng, Li Yu, Fei Xiong, Wei Wang: Trusted Network Coding in Wireless Ad Hoc Networks. GLOBECOM 2010: 1-5.",
+            "[14] 喻莉; 白云; 朱光喜。基于LFSN自相似流量模型的随机突发边界分析。通信学报，31(5) (2010).",
+            "[15] 喻莉; 刘祖浩; 程伟; 王珂。一种基于拓扑控制的独立可信路由框架. 信息工程大学学报，11(5) (2010)."
+        ]
+    },
+    "2011": {
+        "time": "2011年发表文章",
+        "content": [
+            "[1] 王蔚; 喻莉; 朱光喜; 李挥,“基于网络编码的感知无线网多中继机制” 电子信息学报 vol.33, No.4(2011)",
+            "[2] 喻莉; 熊玮; 钟刚; 邓慧萍，“基于尺寸可变块匹配的多视点视频颜色校正方法” 计算机工程与科学 No.3(2011).",
+            "[3] 邓慧萍; 喻莉; 钟刚; 王超; 熊玮，“基于运动矢量处理的帧率上转换算法” 中国图像图形学报 16(2) (2011).",
+            "[4] Zuhao Liu, Li Yu, Wei Cheng and Ke Wang. A Cooperative Recommendation Trust Model for Ad Hoc Networks. Chinacom, 2011.",
+            "[5] Zuhao Liu, Li Yu, Wei Cheng and Ke Wang. An Independent Trust Routing Framework based on Trust Topology Control, Wicom 2011.",
+            "[6] 喻莉;李静茹;刘祖浩。基于自适应遗忘机制的半环信任模型。电子与信息学报，2011年1月.",
+            "[7] Lie Jiang, Li Yu, Zilong Chen. Mobility Performance Analysis in Wireless Network based on a Cross-layer Network Calculus Model. ISCIT2011.",
+            "[8] Li Yu, Fei Xiong, Wei Cheng, Wei Wang, Hui Li.  A Service-Oriented Dynamic Trust Vector Model for Ad Hoc Networks. CHINACOM2011.",
+            "[9] 喻莉; 熊玮; 钟刚; 邓慧萍。基于尺寸可变块匹配的多视点视频颜色校正方法，计算机工程与科学, 2011年 08期.",
+            "[10] 邓慧萍; 喻莉; 钟刚; 王超; 熊玮。基于运动矢量处理的帧率上转换算法，中国图象图形学报, 2011年 02期.",
+            "[11] Li Yu, Sen Xiang, Huiping Deng, Peng Zhou. Depth based view synthesis with artifacts removal for FTV. 6th International Conference on Image and Graphics, ICIG 2011, Hefei, China.",
+            "[12] Doudou Samb, Li Yu. Selection Relaying Protocols for Cooperative Communication Networks with Channel Estimation Errors. 7th 2011 IEEE International Conference on Wireless Communications, Networking and Mobile Computing.",
+            "[13] Pham, P., Yu, L., Nguyen, M., Nguyen, N. Fast cancer classification based on mass spectrometry analysis in robust stationary wavelet domain. Lecture Notes in Electrical Engineering. Springer Netherlands.",
+            "[14] Pham, P., Yu, L., Nguyen, M.   A novel algorithm for multi-class cancer diagnosis on maldi-tof mass spectra. IEEE International Conference on Bioinformatics and Biomedicine, 2011."
+        ]
+    },
+    "2012": {
+        "time": "2012年发表文章",
+        "content": [
+            "[1] Qiong Liu, You Yang, Rongrong Ji, Yue Gao, and Li Yu; Cross-View  Down/Up-Sampling Method for Multiview Depth Video Coding, IEEE  Signal Processing Letters, May 2012, Volume 19 , Issue 5, 295- 298. (impact factor: 1.647).",
+            "[2] Huiping Deng, Li Yu, Zixiang Xiong:Edge-preserving interpolation for down/up sampling-based depth compression. ICIP 2012: 1301-1304",
+            "[3] Huiping Deng, Li Yu, Jinbo Qiu, Juntao Zhang:A Joint Texture/Depth Edge-Directed Up-sampling Algorithm for Depth Map Coding. ICME 2012: 646-650",
+            "[4] 喻莉,姜烈,罗晶晶,张婕,“基于跨层网络演算模型的无线网络移动性能分析” 电子信息学报 vol.34, No.1(2012).",
+            "[5] 喻莉，陈海波，刘聪，胡文妤。基于位置和干扰限制的认知中继选择算法，计算机工程.2012,4.",
+            "[6] Lie Jiang, Li Yu, Zilong Chen   . Network-Calculus-Based QoS Analysis of Network Coding in Cluster-tree Wireless Sensor Networks, ComComAp2012.",
+            "[7] Doudou Samb and Li Yu   . Optimal Power Analysis for Selective-Decode-and-Forward Cooperative Networks over Rayleigh Fading Channels    , Sensor Letters, Vol. 10, No. 8, pp. 1768-1773(6) , 2012."
+        ]
+    },
+    "2013": {
+        "time": "2013年发表文章",
+        "content": [
+            "[1] Doudou Samb, Li Yu: Performance Analysis of Amplify and Forward Cooperative Relaying Protocol in Wireless Communication System. Wireless Personal Communications 70(2): 969-983 (2013).",
+            "[2] Huiping Deng, Li Yu, Juntao  Zhang, Bin Feng and Qiong  Liu. Edge-preserving down/up-sampling for depth map compression in high  efficiency video coding. Optical  Engineering, 52(7), pp 071509-1-8, 2013.",
+            "[3] Zuhao Liu, Li Yu, Yuan Gao, Shiting Hu, Doudou  Samb: A Constructive Capacity Lower Bound of the Inhomogeneous Wireless  Networks. Wireless Personal Communications 71(3): 2333-2348 (2013).",
+            "[4] Qiong Liu, You Yang, Yue Gao, Rongrong Ji, Li Yu; A Bayesian Framework for Dense  Depth Estimation Based on Spatial-temporal Correlation, Neurocomputing, vol 109, pp 1-9, March 2013 (impact factor:1.634).",
+            "[5] 赵佳,喻莉,李静茹, \"社交网络中基于贝叶斯和半环代数模型的节点影响力计算机理\"物理学报 vol.62, No.13(2013) 130201.",
+            "[6] Huiping Deng, Li Yu, Juntao Zhang, Bin Feng, Qiong Liu, Edge-preserving down/up-sampling fordepth map compression in high efficiency video coding. Optical Engineering, 52(7), pp 071509-1-8, 2013. (impact factor: 0.958).",
+            "[7] Huiping Deng,Li Yu,Bin Feng,Qiong Liu,Structural similarity-based synthesized view distortion estimation for depth map coding.IEEE Trans on Consumer Electionics,vol.58,no.4,pp.1338-1344,Jul.20212.(impact factor:1.157).",
+            "[8] You Yang, Qiong Liu, Yue Gao, Binbin Xiong, Li Yu, Huanbo Luan, Rongrong Ji, Qi Tian; Stereotime: A Wireless 2D and 3D Switchable Video  Communication System, ACM  Conference on Multimedia  2013, 473-474.",
+            "[9] Qiong Liu, You Yang, Xu Wang, Liujuan Cao; Quality Assessment on User  Generated Image for Mobile Search Application, Multimedia Modeling, MMM 2013, Part II, Lecture Notes  in Computer Science, vol. 7733, 1-11, 2013.",
+            "[10] Cong Liu, Li Yu, Yuan Gao, Zuhao Liu: A bandwidth efficient and proportional fairness video transmission scheme in TV White Space. WCNC 2013: 4800-4805.",
+            "[11] Yuan Gao, Li Yu, Zuhao Liu, Cong Liu, Desheng Wang: On the capacity of DMPR wireless networks. WCNC 2013: 3609-3613.",
+            "[12] Qin Zhu, Li Yu, Sangsha Fang: Per-flow end-to-end delay bounds in hybrid wireless network. WCNC 2013: 2113-2118.",
+            "[13] Lie Jiang, Li Yu, Yan Dong, Zilong Chen: Delay and backlog distribution analysis of Amplify-and-Forward cooperative channels: A stochastic network calculus perspective. WCNC 2013: 2085-2090.",
+            "[14] P. Zhou, L. Yu and G. Zhong, ‘The non-Lambertian reflection in Plenoptic Sampling’, in IEEE  International Conference on Image Processing(ICIP), 2013, pp. 2154-2157.",
+            "[15] G. Zhong, L. Yu and P. Zhou,  ‘Edge-preserving single depth image interpolation’, in IEEE Visual  Communications and Image Processing(VCIP), 2013, pp.1-6.",
+            "[16] Sen Xiang, Li Yu, Qiong Liu, Zixiang Xiong: A gradient-based approach for  interference cancelation in systems with multiple Kinect cameras. IEEE International  Symposium on? Circuits and Systems (ISCAS), 2013: 13-16.",
+            "[17] Jingjing Luo, Li Yu, Shiting Hu, Chao Luo: Throughput and delay of mobile hybrid wireless networks under K length routing policy. ICC 2013: 6306-6310.",
+            "[18] Jingjing Luo, Jinbei Zhang, Li Yu, Xinbing Wang: Non-asymptotic multicast throughput capacity in multi-hop wireless networks. GLOBECOM 2013: 13-18.",
+            "[19] L. H. Diakite, L.Yu and Rabiu Haruna, \"Testing of Event Detection Lateness in Wireless Sensor Networks\" Computer and Information Science, vol. 6 (4), pp. 103-109, 2013",
+            "[20] Qiong Liu, You Yang, Yue Gao, Rongrong Ji, Li Yu: A Bayesian framework for dense depth estimation based on spatial-temporal correlation. Neurocomputing 104: 1-9 (2013)",
+            "[21] Peng Zhou, Li Yu, Gang Zhong:The non-Lambertian reflection in plenoptic sampling. ICIP 2013: 2154-2157 ",
+            "[22] Sen Xiang, Li Yu, Qiong Liu, Zixiang Xiong:A gradient-based approach for interference cancelation in systems with multiple Kinect cameras. ISCAS 2013: 13-16",
+            "[23] You Yang, Qiong Liu, Yue Gao, Binbin Xiong, Li Yu, Huan-Bo Luan, Rongrong Ji, Qi Tian:Stereotime: a wireless 2D and 3D switchable video communication system. ACM Multimedia 2013: 473-474",
+            "[24] Shiting Hu, Li Yu, Qiuming Liu, Peng Yang, “Throughput Capacity of Wireless Networks with Social Features” 2013 International Conference on Wireless Communications & Signal Processing (WCSP) ,2013",
+            "[25] Sangsha Fang, Chao Luo, Li Yu, Qin Zhu “Stochastic QoS Performance Analysis of DiffServ-based Wireless Sensor Network.” 2013 2nd IEEE International Conference on Communications in China (ICCC), 2013",
+            "[26] 喻莉,罗晶晶,姜烈,张婕,“基于随机网络演算的无线多跳网延迟边界分析” 电子信息学报 vol.35, No.4(2013)",
+            "[27] L. H. Diakite and L. Yu, \"A Wireless Sensor Network for Monitoring Physical Conditions\" presented at the Third IEEE International Conference on Information Science and Technology (ICIST), Hangzhou, 2013.",
+            "[28] L. H. Diakite and L. Yu, \"A Wireless Sensor Network for Monitoring Physical Conditions\" presented at the Third IEEE International Conference on Information Science and Technology (ICIST), Hangzhou, 2013.",
+            "[29] Qiong Liu, You Yang, Yue Gao, Rongrong Ji, Li Yu, A Bayesian Framework for Dense Depth Estimation Based on Spatial-temporal Correlation, Neurocomputing, vol. 109, pp 1-9, Mar. 2013",
+            "[30]Huiping Deng, Li Yu, Juntao Zhang, Bin Feng, Qiong Liu, Edge-preserving down/up-sampling fordepth map compression in high efficiency video coding. Optical Engineering, 52(7), pp 071509-1-8, 2013.",
+            "[31] Gang Zhong, Li Yu, Peng Zhou, Edge-preserving single depth image interpolation, in Proc. of  IEEE Visual Communications and Image Processing, Kuching, Nov. 17-20, 2013, pp.1-6.",
+            "[32] Chao Luo, Li Yu, Jun Zheng. Extending stochastic network calculus to loss analysis. Scientific World Journal, 2013: 918565.（SCIE检索，2013 IF = 1.73）"
+        ]
+    },
+    "2014": {
+        "time": "2014年发表文章",
+        "content": [
+            "[1] Zengqiang Yan, Li Yu, You Yang*, Qiong Liu; Beyond the interference problem:  hierarchical patterns for multiple-projector structured light system, Applied  Optics,  Vol. 53, No. 17, June 2014, 3621-3632 (impact factor:1.649).",
+            "[2] You Yang; Huiping Deng *; Jin Wu; Li Yu; Depth map reconstruction and  rectification through coding parameters for mobile 3D video system, Neurocomputing, DOI: 10.1016/j.neucom.2014.04.088  (online, impact factor: 2.005).",
+            "[3] You Yang, Qiong Liu, Hao Liu,  Li Yu, Fanglin Wang;  Space Coordinate Synthesis via Energy Minimization for Three-dimensional Video,  Signal  Processing,  DOI: 10.1016/j.sigpro.2014.07.020 (online, impact factor: 2.238).",
+            "[4] You Yang, Xu Wang, Qiong Liu, Mingliang Xu, Wei Wu; User Models of  Subjective Image Quality Assessment of virtual Viewpoint in Free-viewpoint  Video System, Multimedia  Tools and Applications,  DOI: 10.1007/s11042-014-2321-7 (online, impact factor: 1.058).",
+            "[5] You Yang, Xu Wang, Tao Guan, Jialie Shen; Li Yu; A Multi-dimensional  Image Preference Prediction Model for User Generated Images in Social Networks,  Information  Sciences,  Vol. 281, 10 October 2014, pp: 601–610 (impact factor: 3.893).",
+            "[6] Qiong Liu, Zhengjun Zha, Yang Yang, Gradient-domain-based enhancement of  multi-view depth video, Information  Sciences,  vol.28, Oct. 2014, pp: 750-761. (impact factor: 3.893).",
+            "[7] You Yang, Xu Wang, Qiong Liu, Mingliang Xu, Li Yu; A bundled-optimization  model for multiview dense depth map synthesis, DOI:  10.1016/j.ins.2014.11.014, Information Sciences (accepted, impact factor: 3.893).",
+            "[8] Li Yu, Cong Liu, Wenwu Zhu, Sha Hua, Wei Wang: Bandwidth Efficient and Rate-Adaptive Video Delivery in TV White Space. IEEE Trans. Circuits Syst. Video Techn. 24(9): 1605-1619 (2014).",
+            "[9] Yi Zhang, Li Yu, Liyue Wang: High Access Performance Strategy for Next Generation Healthcare Networks. JNW 9(6): 1477-1484 (2014).",
+            "[10] J. Luo, J. Zhang, Li Yu, Xinbing Wang, \"Impact of Location Popularity on Throughput and Delay in Mobile Ad Hoc Networks\" to appear in IEEE Transactions on Mobile Computing, 2014.",
+            "[11] You Yang, Huiping Deng, Jin Wu, Li Yu, Depth map reconstruction and rectification through coding parameters for mobile 3D video system, Neurocomputing, DOI: 10.1016/j.neucom.2014.04.088 (online, impact factor: 2.005).",
+            "[12] Li Yu,Cong Liu,Wenwu Zhu,Sha Hua,Wei Wang,Bandwidth Efficient and Rate-Adaptive Video Delivery in TV White Space,IEEE Trans on Circuits and Systems for Video Technology,vol.24,no.7,pp.1605-1619,Sep.2014.(impact factor:2.259).",
+            "[13] P. Zhou, L. Yu and C. Park, ‘The Spectrum Broadening in the Plenoptic Function’, in ACM International  Conference on Internet Multimedia Computing and Service, 2014, pp. 130-135.",
+            "[14] Sicheng Zhao, Hongxun Yao, You Yang, Yanhao Zhang; Affective Image Retrieval  via Multi-Graph Learning; ACM Conference on Multimedia, 2014, pp.1025-1028",
+            "[15] Sen Xiang, Jingteng Xue, Li Yu, Chang Wen Chen, No-reference  depth quality assessment for texture-plus-depth images. IEEE International  Conference on? Multimedia and Expo (ICME), 2014: 1-6",
+            "[16] Linze Wu, Li Yu, and Changjian Zhu. Camera Position Optimization  Using the Effective Area In Light Field Rendering. In Proceedings of the International  Conference on Internet Multimedia Computing and Service, pages 60–66. ACM, 2014.",
+            "[17] Chagnjian Zhu, Li Yu, Peng Zhou, Coverage Field Analysis to the Quality of Light Field Rendering. in Proc. of Multimedia Modeling, Dublin, Jan. 8-10, 2014, pp. 170-180.",
+            "[18] Qiuming Liu, Li Yu, Peng Yang, Zuhao Liu:Secrecy Throughput in Inhomogeneous Wireless Networks with Nonuniform Traffic. IJDSN 2014 (2014)",
+            "[19] Li Yu, Cong Liu, Wenwu Zhu, Sha Hua, Wei Wang: Bandwidth Efficient and Rate-Adaptive Video Delivery in TV White Space. IEEE Trans. Circuits Syst. Video Techn. 24(9): 1605-1619 (2014)",
+            "[20] You Yang, Xu Wang, Tao Guan, Jialie Shen, Li Yu: A multi-dimensional image quality prediction model for user-generated images in social networks. Inf. Sci. 281: 601-610 (2014)",
+            "[21] Edriss E. B. Adam, Li Yu, Doudou Samb: Performance Comparisons of Optimal Power Allocation over Nakagami-m and Rayleigh Fading Channels in Wireless Cooperative Systems. JCM 9(4): 350 (2014)",
+            "[22] Manar Al-Kali, Li Yu, Ali A. Mohammed:Performance Analysis of Multi-Source Multi-Relay with Multiple Antennas Cooperative Networks with Best Relay Selection. JCM 9(10): 771-777 (2014)",
+            "[23] Li Yu, Cong Liu, Sha Hua, Min Liu:Cognitive radio assisted quality compensation for scalable video multicast in cellular networks. Sig. Proc.: Image Comm. 29(10): 1092-1101 (2014)",
+            "[24] Zengqiang Yan, Li Yu, You Yang*, Qiong Liu; Beyond the interference problem: hierarchical patterns for multiple-projector structured light system, Applied Optics, Vol. 53, No. 17, June 2014, 3621-3632",
+            "[25] Peng Zhou, Li Yu, Cholung Pak: The Spectrum Broadening in the Plenoptic Function. ICIMCS 2014: 130",
+            "[26] Sen Xiang, Jingteng Xue, Li Yu, Chang Wen Chen: No-reference depth quality assessment for texture-plus-depth images. ICME 2014: 1-6",
+            "[27] Changjian Zhu, Li Yu, Peng Zhou: Coverage Field Analysis to the Quality of Light Field Rendering. MMM (2) 2014: 170-180",
+            "[28] Guang Bai, Li Yu, Qiuming Liu:An Achievable Throughput Capacity of Three-Dimensional Inhomogeneous Wireless Networks. VTC Fall 2014: 1-5",
+            "[29] Jun Zheng, Li Yu, Peng Yang: Throughput analysis of cognitive radio networks via stochastic network calculus. WCSP 2014: 1-6",
+            "[30] 李静茹，喻莉，赵佳，“一种加权社交网络节点中心性计算模型”电子科技大学学报vol.43, No. 3(2014)",
+            "[31] 喻莉,郑军,罗超, “认知无线电中多址接入的随机延时边界分析” 电子信息学报 vol.36, No.10(2014)",
+            "[32] Qiong Liu, Zhengjun Zha, Yang Yang, Gradient-domain-based enhancement of multi-view depth video, Information Sciences, vol.28, Oct. 2014, pp. 750-761."
+        ]
+    },
+    "2015": {
+        "time": "2015年发表文章",
+        "content": [
+            "[1] Sen Xiang, Li Yu, You Yang,  Qiong Liu, Jialiang Zhou, Interfered Depth Map Recovery with Texture Guidance  for Multiple Structured Light Depth Cameras, Signal Processing: Image  Communication, (accepted).",
+            "[2] S. Xiang, L. Yu, Y. Yang, Q. Liu and L. Yu, Interfered depth map recovery with texture guidance for multiple structured light depth cameras, vol. 31, pp. 34-46, 2015.",
+            "[3] J. Luo, J. Zhang, L. Yu, X. Wang,“The role of location popularity in multicast mobile ad hoc networks,”IEEE Transactions on Wireless Communications, vol.14, no.4,pp.2131-2143, Apr.2015.",
+            "[4] J. Luo, J. Zhang, L. Yu, X. Wang,“Impact of location popularity on throughput and delay in mobile ad hoc networks,”IEEE Transactions on Mobile Computing, vol.14, no.5,pp.1004-1017,May 2015.",
+            "[5] Zengqiang Yan, Li Yu, and Zixiang Xiong, \"Large-area depth recovery for RGB-D camera\"in Proc. IEEE Int. Conf. Image Process., Sep. 2015, pp. 1409-1413.",
+            "[6] Z. Yan, L. Yu, Z. Xiong, Texture-Free Large-Area Depth Recovery for Planar Surfaces, in Proc. of Multimedia signal process, pp.1-6. (Top 10% paper award).",
+            "[7] L. Li, S. Xiang, Y. Yang, L. Yu Multi-camera interference cancellation of time-of-flight(TOF) cameras, in Proc. of ICIP 2015, to be published.",
+            "[8] Z. Yan, L. Yu, Z. Xiong, Large-area depth recovery for RGB-D camera, in Proc. of ICIP 2015, to be published.",
+            "[9] You Yang, Huiping Deng, Jin Wu, Li Yu:Depth map reconstruction and rectification through coding parameters for mobile 3D video system. Neurocomputing 151: 663-673 (2015).",
+            "[10] [2]Sen Xiang, Li Yu, You Yang, Qiong Liu, Jialiang Zhou. Interfered Depth Map Recovery with Texture Guidance for Multiple Structured Light Depth Cameras, Signal Processing: Image Communication, Vol. 31, Feb. 2015, pp. 34-46.",
+            "[11] You Yang, Xu Wang, Qiong Liu, Mingliang Xu, Li Yu, A bundled-optimization model for multiview dense depth map synthesis, Information Sciences. (accepted)",
+            "[12] You Yang, Huiping Deng, Jin Wu, Li Yu, Depth map reconstruction and rectification through coding parameters for mobile 3D video system, Neurocomputing.(accepted)",
+            "[13] L. Li, S. Xiang, Y. Yang, L. Yu Multi-camera interference cancellation of time-of-flight(TOF) cameras, in Proc. of ICIP 2015, to be published. ",
+            "[14] Z. Yan, L. Yu, Z. Xiong, Large-area depth recovery for RGB-D camera, in Proc. of ICIP 2015, to be published. ",
+            "[15] Zengqiang Yan, Li Yu, and Zixiang Xiong, “Texture-free large-area depth recovery for planar surfaces,” in Proc. IEEE Int. Workshop Multimedia Signal Process., Oct. 2015, pp. 1-6.",
+            "[16] Liu Qiuming, Yu L, Liu Z, et al. Impact of Heterogeneity and Secrecy on the Capacity of Wireless Sensor Networks.[J]. Sensors, 2015, 15(12):30964-30980.(SCI)",
+            "[17] Jia Zhao, Li Yu, Jingru Li. Identifying influential nodes based on graph signal processing in complex networks. Chinese Physics B, 2015, 24(5).",
+            "[18] Chao Luo, Jun Zheng, Li Yu. Performance analysis of stochastic multi-server systems. 10th EAI International Conference on Communications and Networking in China (ChinaCom), Shanghai, 2015.（EI 检索）"
+        ]
+    },
+    "2016": {
+        "time": "2016年发表文章",
+        "content": [
+            "[1] Chang-Jian Zhu, and Li Yu. \"Spectral analysis of image-based rendering data with scene geometry\". Multimedia Systems, pp.1-18, 2016.  DOI:10.1007/s 00530-016-0515-8.",
+            "[2] Peng Zhou, Li Yu, and Gang Zhong. \"The plenoptic spectrum analysis and reconstruction filter design for the occlusive scene.\" Neurocomputing, 2016.",
+            "[3] Xiang, Sen, Li Yu, and Chang Wen Chen. \"No-Reference Depth Assessment Based on Edge Misalignment Errors for T+ D Images.\" IEEE Transactions on Image Processing 25.3 (2016): 1479-1494.",
+            "[4] J. Luo, L. Yu, J. Zhang, X. Wang,“Non-asymptotic multicast throughput and delay in multi-hop wireless networks,”IEEE Transactions on Vehicular Technology, vol.65, no.7,pp.5525-5537, July 2016.",
+            "[5] Shengwei Wang, Li Yu. \"Local Entropy Minimization and Measurement Rate Allocation for Compressed Sensing of Depth Video.\" Picture Coding Symposium 2016.",
+            "[6] Chang-Jian Zhu, and Li Yu, \"Image-assisted geometry simplification for the plenoptic sampling\" In: 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’2016), pp. 1591-1595, 2016.",
+            "[7] L. Li, S. Xiang, Y. Yang, L. Yu Multi-camera interference cancellation of time-of-flight(TOF) cameras, in Proc. of ICIP 2015, to be published.",
+            "[8] Z. Yan, L. Yu, Z. Xiong, Large-area depth recovery for RGB-D camera, in Proc. of ICIP 2015, to be published.",
+            "[9] Luo, Jingjing, et al. \"Asymptotic Analysis on Content Placement and Retrieval in MANETs.\" IEEE/ACM Transactions on Networking (2016).",
+            "[10] 周洋,冯银超,孙京,李路明,杨济海,王华. 基于场景对比的电力通信网仿真平台设计[J]. 信息通信，2016(1): 202-206.",
+            "[11] Zheng J, Yang P, Luo J, et al. Per-user throughput analysis for secondary users in multi-hop cognitive radio networks[J]. Computer Networks, 2016, 106:122-133.",
+            "[12] Y. Zhao, L. Yu, Juhong. Tian, C. Luo, “Stochastic Delay Analysis of Multi-services in Power Communication Networks” International Journal of Computer and Communication Engineering, Vol. 5, No. 6, Nov. 2016.",
+            "[13] Y. Zhao, Juhong Tian, L. Yu “Fault Diagnosis Based on Improved Bayesian Classier in Power Communication Network” International Journal of Latest Engineering Research and Applications , Vol. 1, No. 7, Oct. 2016."
+        ]
+    },
+    "2017": {
+        "time": "2017年发表文章",
+        "content": [
+            "[1] 吴林泽，喻莉. 光场绘制中基于中心关注度的相机布置算法[J]. 中国科技论文.",
+            "[2] Changjian Zhu,Li Yu,Zengqiang Yan,and Sen Xiang,\"Frequency Estimation of the Plenoptic Function Using the Autocorrelation Theorem.\",  accepted by IEEE Trans.on Computational Imaging,DOI:10.1109/TCI.201702671450,17 February 2017.(SCI).",
+            "[3] Chang-Jian Zhu, Li Yu, and Zixiang Xiong, \"A Non-Coverage Field Model for Improving the Rendering Quality of Virtual Views\" accepted with mandatory minor revisions english usage by IEEE Trans. on Multimedia. (SCI, IF:2.536)",
+            "[4] Chang-Jian Zhu, Hong Zhang, and Li Yu, \" An Occlusion Model for Improving Rendering Quality of View\" accepted by 2017 IEEE International Conference on Image Processing (ICIP’2017).",
+            "[5]Changjian Zhu,Hong Zhang,and Li Yu,\"Structrue Models for Image-assisted Geometry Simplification in the Plenoptic Sampling\"accepted by 2017 IEEE Trans.on Instrumentation & Measurement,2017.",
+            "[6] J. Luo, J. Zhang, Y. Cui, L. Yu, X. Wang, “Asymptotic analysis on content placement and retrieve in MANETs,” accepted in IEEE/ACM Transactions on Networking. ",
+            "[7] P. Yang, N. Zhang, Y. Bi, L. Yu, and X. Shen, \"Catalyzing Cloud-Fog Interoperation in 5G Wireless Networks: An SDN Approach\", IEEE Network, accepted. ",
+            "[8] Jingru Li, Li Yu, Jia Zhao, Chao Luo and Jun Zheng. TSTE: A Time-variant Stochastic Trust Evaluation Model in Social Networks. KSII Transactions on Internet and Information Systems. 2017, 11(6): 3273-3308",
+            "[9] 周洋,孙京,冯银超,喻莉. 基于链路重要度的电力通信网链路保护方法[J]. 通信技术，2017(3):480-486."
+        ]
+    }
+}

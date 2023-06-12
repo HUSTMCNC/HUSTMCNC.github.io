@@ -1,0 +1,38 @@
+{
+    "head": "Thesis Defense",
+    "items": [
+        {
+            "content": "Congratulations! Juhong Tian , Yinchao Feng, Jing Sun, Zhiqiang Zhang, Conghuan Tu, Xinglong Zhang, Kai Wan passed their thesis defense.",
+            "imgs": [
+                "dest/imgs/activity/master_2.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations! Peng  Zhou passed their doctoral thesis defense.",
+            "imgs": [
+                "dest/imgs/activity/doctor_1.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations! Yi Zhang passed his doctoral thesis defense.",
+            "imgs": [
+                "dest/imgs/activity/张轶.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations! Cong Liu passed his thesis defense.",
+            "imgs": [
+                "dest/imgs/activity/刘聪.jpg"
+            ]
+        },
+        {
+            "content": "Congratulations! Zuhao LIU and Huiping Deng passed their thesis  defense. Moreover, Prof. Zixiang XIONG(IEEE Fellow) served as their defense committee member and gave a lot of insightful comments.",
+            "imgs": [
+                "dest/imgs/activity/刘祖浩_1.jpg",
+                "dest/imgs/activity/邓慧萍_2.jpg",
+                "dest/imgs/activity/邓慧萍_1.jpg",
+                "dest/imgs/activity/刘祖浩_2.jpg"
+            ]
+        }
+    ]
+}

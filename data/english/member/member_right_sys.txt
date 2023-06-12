@@ -1,0 +1,145 @@
+{
+    "wireless": {
+        "title": "Wireless network group",
+        "members": [
+            {
+                "name": "Jingru Li, PhD Candidate",
+                "description": "Jingru Li joined the laboratory network group in September 2009, and her current research direction is the social network trust model research.",
+                "img": "dest/imgs/members/李静茹.jpg",
+                "email": "lijingru221@gmail.com",
+                "detail": ""
+            },
+            {
+                "name": "Jun Zheng, PhD Candidate",
+                "description": "Jun Zheng joined the laboratory network group in September 2011. His current research direction is random network computing and cognitive radio network.",
+                "img": "dest/imgs/members/郑军.jpg",
+                "email": "Neptunezj@gmail.com",
+                "detail": ""
+            },
+            {
+                "name": "Qiuming Liu, PhD Candidate ",
+                "description": "Qiuming Liu joined the laboratory in September 2012, his current research direction is the wireless network capacity.",
+                "img": "dest/imgs/members/刘秋明.jpg",
+                "email": "195324758@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Peng Yang, PhD Candidate",
+                "description": "Peng Yang joined the laboratory in September 2013. His current research direction is the wireless network capacity. ",
+                "img": "dest/imgs/members/杨鹏.jpg",
+                "email": "yangpeng@hust.edu.cn",
+                "detail": ""
+            },
+            {
+                "name": "Pengfei He, M.Eng Candidate ",
+                "description": "Pengfei He joined the laboratory in September 2015, his current research direction is the wireless network capacity.",
+                "img": "dest/imgs/members/贺鹏飞.jpg",
+                "email": "1227767012@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Xu Yi, M.Eng Candidate ",
+                "description": "Xu Yi joined the laboratory in September 2015, his current research direction is the wireless network capacity.",
+                "img": "dest/imgs/members/易旭.png",
+                "email": "2273848642@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Chaozhun Wen, M.Eng Candidate",
+                "description": "Chaozhun Wen joined the laboratory in September 2015, his current research direction is social network and recommended system. ",
+                "img": "dest/imgs/members/文朝埻.jpg",
+                "email": "1450485675@qq.com",
+                "detail": ""
+            }
+        ]
+    },
+    "media": {
+        "title": "Multimedia group",
+        "members": [
+            {
+                "name": "Gang Zhong, PhD Candidate",
+                "description": "Gang Zhong joined the laboratory in September 2008, his current research direction is the network coding.",
+                "img": "dest/imgs/members/钟刚.jpg",
+                "email": "fhjianke@126.com",
+                "detail": ""
+            },
+            {
+                "name": "Changjian Zhu, PhD Candidate",
+                "description": "Changjian Zhu joined the laboratory in September 2012. His current research direction is 3D sampling.",
+                "img": "dest/imgs/members/祝常健.jpg",
+                "email": "276206020@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Shengwei Wang, PhD Candidate",
+                "description": "Shengwei Wang joined the laboratory in September 2013, and his current research direction is video coding.",
+                "img": "dest/imgs/members/王晟玮.jpg",
+                "email": "kadinwang@gmail.com",
+                "detail": ""
+            },
+            {
+                "name": "Tiansong Li, PhD Candidate",
+                "description": "Tiansong Li joined the laboratory in September 2013, and his current research direction is video coding.",
+                "img": "dest/imgs/members/黎天送.jpg",
+                "email": "1436369042@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Mingming Tu, M.Eng Candidate",
+                "description": "Mingming Tu joined the lab in September 2015, and his current research is search image.",
+                "img": "dest/imgs/members/default.jpg",
+                "email": "346170062@qq.com ",
+                "detail": ""
+            },
+            {
+                "name": "Yi Chen, M.Eng Candidate",
+                "description": "Yi Chen joined the lab in September 2016, and his current research is multimedia information processing and machine learning.",
+                "img": "dest/imgs/members/陈怡.jpg",
+                "email": "13163234706@163.com",
+                "detail": ""
+            },
+            {
+                "name": "Kang Shao, M.Eng Candidate",
+                "description": "Kang Shao joined the lab in September 2016, and his current research is search image.",
+                "img": "dest/imgs/members/邵康.jpg",
+                "email": "470417455@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Qinfeng Ruan, M.Eng Candidate",
+                "description": "Qinfeng Ruan joined the lab in September 2017, and his current research is image processing.",
+                "img": "dest/imgs/members/阮钦锋.jpg",
+                "email": "ruanqinfeng123@163.com",
+                "detail": ""
+            },
+            {
+                "name": "Jinling Li, M.Eng Candidate",
+                "description": "Jinling Li joined the lab in September 2017.",
+                "img": "dest/imgs/members/李金玲.jpg",
+                "email": "4679997865@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Sen Li, M.Eng Candidate",
+                "description": "Sen Li joined the lab in September 2017, and his current research is search image and image processing.",
+                "img": "dest/imgs/members/李森.jpg",
+                "email": "407553260@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Yixuan Wang, M.Eng Candidate",
+                "description": "Yixuan Wang joined the lab in September 2017, and her current research is machine learning and video processing.",
+                "img": "dest/imgs/members/王艺璇.jpg",
+                "email": "2932221844@qq.com",
+                "detail": ""
+            },
+            {
+                "name": "Yamei Chen, M.Eng Candidate",
+                "description": "Yamei Chen joined the lab in September 2017, and her current research is video coding.",
+                "img": "dest/imgs/members/陈雅梅.jpg",
+                "email": "1404150225@qq.com",
+                "detail": ""
+            }
+        ]
+    }
+}

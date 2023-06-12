@@ -1,0 +1,9 @@
+{
+    "title": "Social Network",
+    "content": " With the rapid development of the Internet and mobile terminals, social networks have been widely used. As a result, the various research topics in the social network have attracted wide attention. Our main research points include: establishing social network users trust model, the node of centricity model between the recommended model, effective, accurate and efficient community partition algorithm, etc.",
+    "img": [
+        "dest/imgs/research/社交网络.jpg"
+    ],
+    "people_title": "Related Students",
+    "people": "Jia Zhao(Ph.D),Jingru Li(Ph.D),Zhiqiang Zhang(Ph.D),Pengfei He,Xu Yi,Zhaozhun Wen."
+}

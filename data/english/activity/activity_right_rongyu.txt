@@ -1,0 +1,25 @@
+{
+    "head": "Honor of Teachers and Students",
+    "items": [
+        {
+            "id": 4,
+            "content": "Congratulations-Changjian Zhu's paper entitled \"Structure Models for Image-assisted Geometry Simplification in the Plenoptic Sampling\" has been accepted by IEEE Trans. on Instrumentation & Measurement, 2017.",
+            "imgs": []
+        },
+        {
+            "id": 3,
+            "content": "Congratulations-Jingru Li's paper entitled \"A New Node Centrality Evaluation Model for Multi-community Weighted Social Networks\" and Qiuming Liu's paper entitled \"Control of Multi-Hop Wireless Networks with Security Constraints\"has been accepted by VTCfall 2017.",
+            "imgs": []
+        },
+        {
+            "id": 2,
+            "content": "Congratulations to Chaozhun Wen won the first prize of bachelor thesis.",
+            "imgs": []
+        },
+        {
+            "id": 1,
+            "content": "Congratulations Luo jingjing is supported by the 2016 post-doctoral innovation talent support program (bo new project). \"New plan\" is a young country new talents support program, through the optimal selection of a batch of new or newly graduated from Dr Good, special funding its work in the postdoctoral research, aiming to accelerate to cultivate a group of young innovative talents to enter the world technological frontier. In 2016, the program was funded by 200 applicants nationwide, and 10 people in wuhan, China, universities and research institutes.",
+            "imgs": []
+        }
+    ]
+}

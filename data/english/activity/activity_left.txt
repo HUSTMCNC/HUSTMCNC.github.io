@@ -1,0 +1,29 @@
+{
+    "head": "Activities",
+    "items": [
+        {
+            "name": "Visiting Professor",
+            "link": "/activity_en/laifang"
+        },
+        {
+            "name": "Research Seminar",
+            "link": "/activity_en/xueshu"
+        },
+        {
+            "name": "Academic Conference",
+            "link": "/activity_en/guoji"
+        },
+        {
+            "name": "Thesis Defense",
+            "link": "/activity_en/biye"
+        },
+        {
+            "name": "Activities in MCNC",
+            "link": "/activity_en/shiyan"
+        },
+        {
+            "name": "Happy Celebration",
+            "link": "/activity_en/rongyu"
+        }
+    ]
+}
