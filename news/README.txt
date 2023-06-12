@@ -1,0 +1,5 @@
+为使维护代码容易，将每个新闻网页的头部部分单独拿出来复用，放在header.html文件里面。
+每个新闻网页的内容放在content文件夹里，
+python脚本generate_html.py遍历content文件夹，将里面的每个文件与heaer.html文件的内容拼接，生产传递给浏览器的文件。
+如 content20190520_talk_YangPeng.html文件与heaer.html文件拼接，生成20190520_talk_YangPeng.html文件。
+建议：如要修改内容，只修改conten文件夹里面的，然后运行generat_html.py文件刷新。
